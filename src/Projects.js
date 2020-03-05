@@ -8,6 +8,8 @@ import employee from './assets/images/Employee_manager.png'
 import fitness from './assets/images/fitness2.png'
 import password from './assets/images/password_generator.png'
 import trade from './assets/images/trade-jack.png'
+import direc from './assets/images/employdirec.png'
+import cibus from './assets/images/cibus.png'
 import "./Project.css"
 
 function Projects(props) {
@@ -35,6 +37,22 @@ function Projects(props) {
                 <h3>
                     Some of my work
                 </h3>
+            </div>
+            <div class="row">
+            <Thumbnail
+                image = {cibus}
+                name = "Cibus"
+                text = "Social Media platform where users can share their nutritious food"
+                link = "http://cibusapp.herokuapp.com/"
+                github = "https://github.com/Javeyn/Cibus"
+            />
+            <Thumbnail
+                image = {direc}
+                name = "Employee Directory"
+                text = "Quickly search for employee information"
+                link = "https://hl-direc-employee.herokuapp.com/"
+                github = "https://github.com/linhs22/employee_directory"
+            />
             </div>
             <div class="row">
             <Thumbnail
