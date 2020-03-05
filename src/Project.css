@@ -1,0 +1,23 @@
+.homeHeader {
+    text-align: center;
+    margin: 20px;
+    padding-top: 100px;
+}
+
+#quick {
+    padding-top: 20px;
+}
+
+p {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    margin: 20px;
+    padding-top: 100px;
+}
+.col-md-6 {
+    margin: 0 auto;
+    padding: 0;
+}
