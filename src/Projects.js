@@ -47,13 +47,13 @@ function Projects(props) {
                 github = "https://github.com/Javeyn/Cibus"
             />
             <Thumbnail
-                image = {direc}
-                name = "Employee Directory"
-                text = "Quickly search for employee information"
-                link = "https://hl-direc-employee.herokuapp.com/"
-                github = "https://github.com/linhs22/employee_directory"
+                image = {trade}
+                name = "Trade Jack"
+                text = "A reverse bidding application that allow users to create and bid on tasks."
+                link = "http://trade-jack.herokuapp.com/"
+                github = "https://github.com/jittel/project2"
             />
-            </div>
+            
             <div class="row">
             <Thumbnail
                 image = {ate}
@@ -62,12 +62,12 @@ function Projects(props) {
                 link = "https://foodie-helper-2019.appspot.com/"
                 github = "https://github.com/Javeyn/project1"
             />
+            </div>
             <Thumbnail
-                image = {trade}
-                name = "Trade Jack"
-                text = "A reverse bidding application that allow users to create and bid on tasks."
-                link = "http://trade-jack.herokuapp.com/"
-                github = "https://github.com/jittel/project2"
+                image = {employee}
+                name = "Employee Management"
+                text = "An application to track the employees in a business."
+                github = "https://github.com/linhs22/employee-tracker"
             />
             </div>
             <div class="row">
@@ -108,13 +108,6 @@ function Projects(props) {
                 name = "Employee Management"
                 text = "An application to track the employees in a business."
                 github = "https://github.com/linhs22/employee-tracker"
-            />
-            <Thumbnail
-                image = {day}
-                name = "Work Day Scheduler"
-                text = "An application to track the task that need to be done in a day"
-                link = "https://linhs22.github.io/henryhw5/"
-                github = "https://github.com/linhs22/henryhw5"
             />
             </div>
         </div>
