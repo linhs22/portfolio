@@ -53,7 +53,7 @@ function Projects(props) {
                 link = "http://trade-jack.herokuapp.com/"
                 github = "https://github.com/jittel/project2"
             />
-            
+            </div>
             <div class="row">
             <Thumbnail
                 image = {ate}
@@ -62,7 +62,6 @@ function Projects(props) {
                 link = "https://foodie-helper-2019.appspot.com/"
                 github = "https://github.com/Javeyn/project1"
             />
-            </div>
             <Thumbnail
                 image = {employee}
                 name = "Employee Management"
@@ -100,14 +99,6 @@ function Projects(props) {
                 text = "An application that lets gym goers to track their workouts"
                 link = "https://workout-tracker-hl.herokuapp.com/"
                 github = "https://github.com/linhs22/workout-tracker"
-            />
-            </div>
-            <div class="row">
-            <Thumbnail
-                image = {employee}
-                name = "Employee Management"
-                text = "An application to track the employees in a business."
-                github = "https://github.com/linhs22/employee-tracker"
             />
             </div>
         </div>
