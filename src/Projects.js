@@ -18,9 +18,9 @@ function Projects(props) {
             <div class="container">
                 <h1 class="homeHeader">Hi! My name is Henry.
             <br />
-                    I'm currently a student studying web development.
+                    I'm currently a Data Analyst at <a href="https://loopielaundry.com/">Loopie</a>
             <br />
-                    Previously with the Seattle Mariners.
+                    Previously a student studying web development.
                 </h1>
                 <div class="row">
                     <div class="col-md-3"></div>

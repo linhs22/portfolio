@@ -17,18 +17,16 @@ function About(props) {
                                 </div>
                                 <div class="col-md-8">
                                     <p>
-                                        Hi! My name is Henry Lin and I am young professional pursing a career in data science and business analytics. I was born in Japan, but raised in Seattle since I was a year old. As a child, I m "grew up speaking Japanese. I've always had a passion for the sciences
-                                        and baseball.
+                                        Hi! My name is Henry Lin and I am young professional pursing a career in data/business analytics with hopes to set foot in the data science industry. I was born in Japan, but was raised in Seattle. As a child, I grew up expriencing multiple different cultures. From Chinese and Japanese culture instilled by my parents, to the American culture I aqcuired from living here. Since I was a child I have always had a passion for the sciences and baseball.
                         </p>
                                     <p>
-                                        During my time at Whitman college while studying mathematics and physics as well a chinese, I also had the opportunity to college baseball. Outside of studying and practice, I also volunteered at a local elemenatary school and became the marketing directory
-                                        for our events board.
+                                        During my time at Whitman college, while studying mathematics and physics as well a minor chinese, I also had the opportunity to college baseball. Outside of studying and practice, I also volunteered at a local elemenatary school and became the marketing directory for our events board.
                         </p>
                                     <p>
-                                        For the past few months, I was an Interpreter/Quality Control Intern for the Seattle Mariners. During my time there, I was exposed to the world of analytics and presenting data in a way that is easier to interpret.
+                                        For the past few months, I was an enrolled in a intesive full stack web development bootcamp through the University of Washington to enhance my technical skills. During my time there, I was exposed to the world of software development and its power to create almost anything.
                         </p>
                                     <p>
-                                        I am interested in pursuing a career in the field of business analytics and would welcome the opportunity to bring my analytical background, strong communication skills, and the skills I learned as a Quality Control Intern to a postion in Data Science
+                                        I am interested in pursuing a career in the field of business/data analytics and would welcome the opportunity to bring my analytical background, strong communication skills, and the skills I learned through my web development program to a postion in Data Analytics
                                         and Business Analytics.
                         </p>
                                 </div>
