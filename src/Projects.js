@@ -63,10 +63,11 @@ function Projects(props) {
                 github = "https://github.com/Javeyn/project1"
             />
             <Thumbnail
-                image = {employee}
-                name = "Employee Management"
-                text = "An application to track the employees in a business."
-                github = "https://github.com/linhs22/employee-tracker"
+                image = {budget}
+                name = "Budget Tracker"
+                text = "A reverse bidding application that allow users to create and bid on tasks."
+                link = "https://progressive-finance-tracker.herokuapp.com/"
+                github = "https://github.com/linhs22/progressive"
             />
             </div>
             <div class="row">
@@ -78,11 +79,10 @@ function Projects(props) {
                 github = "https://github.com/linhs22/henryhw3"
             />
             <Thumbnail
-                image = {budget}
-                name = "Budget Tracker"
-                text = "A reverse bidding application that allow users to create and bid on tasks."
-                link = "https://progressive-finance-tracker.herokuapp.com/"
-                github = "https://github.com/linhs22/progressive"
+                image = {employee}
+                name = "Employee Management"
+                text = "An application to track the employees in a business."
+                github = "https://github.com/linhs22/employee-tracker"
             />
             </div>
             <div class="row">

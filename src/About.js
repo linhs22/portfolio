@@ -15,7 +15,7 @@ function About(props) {
                                 <div class="col-md-4">
                                     <img class="img img-thumbnail" id="henrypic" src={image} alt="henrypic" />
                                 </div>
-                                <div class="col-md-8">
+                                <div class="col-md-8" id="bio">
                                     <p>
                                         Hi! My name is Henry Lin and I am young professional pursing a career in data/business analytics with hopes to set foot in the data science industry. I was born in Japan, but was raised in Seattle. As a child, I grew up expriencing multiple different cultures. From Chinese and Japanese culture instilled by my parents, to the American culture I aqcuired from living here. Since I was a child I have always had a passion for the sciences and baseball.
                         </p>
