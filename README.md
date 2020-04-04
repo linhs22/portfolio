@@ -1,68 +1,34 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Henry Lin Portfolio
 
-## Available Scripts
+## Description
 
-In the project directory, you can run:
+This is my portfolio containing my bio and some of my technical projects that I have completed within the last year. 
 
-### `npm start`
+Creating a personal webpage is a must in being a tech proffessional. This is why I also wanted to create my on webpage. Howver, doing this without 3rd party sources allows me to customize as well as learn the many features of React, javascript, html, css, etc. When applying for positions, it is very difficult to get to know the person who you are trying to hire just with a resume and cover letter. Additionally, it is wasteful and time consuming for both ends to submit and read multiple documents. A personal web page is a convenient and quick way for employers to get to know who you are. I can also fit a lot more content on a web page than on paper.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Table of Contents
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+* [Installation](#installation)
+* [Usage](#usage)
+* [Credits](#credits)
+* [License](#license)
 
-### `npm test`
+## Installation
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Copy link: https://hl-react-portfolio.herokuapp.com/
+2. Open browser.
+3. Paste link onto browser.
 
-### `npm run build`
+## Usage 
+The landing page contains some introductory information about me. Below contains some of the projects I have done as well their links to github and the application. To the top right is a link to my about page where you can read my bio as well as links to my LinkedIn, Github and Resume.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Credits
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+Thanks to UW Coding Boot Campy and our instructor Joe for guiding me through the process. 
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+W3school for many of their online sources on css and html.
+https://www.w3schools.com/ 
 
-### `npm run eject`
+Bootstrap Code
+https://getbootstrap.com/
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
